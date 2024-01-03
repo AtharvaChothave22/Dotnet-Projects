@@ -1,0 +1,184 @@
+E:\DotnetProject\Portal\bin\Debug\net8.0\appsettings.Development.json
+E:\DotnetProject\Portal\bin\Debug\net8.0\appsettings.json
+E:\DotnetProject\Portal\bin\Debug\net8.0\Portal.staticwebassets.runtime.json
+E:\DotnetProject\Portal\bin\Debug\net8.0\Portal.exe
+E:\DotnetProject\Portal\bin\Debug\net8.0\Portal.deps.json
+E:\DotnetProject\Portal\bin\Debug\net8.0\Portal.runtimeconfig.json
+E:\DotnetProject\Portal\bin\Debug\net8.0\Portal.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\Portal.pdb
+E:\DotnetProject\Portal\bin\Debug\net8.0\Bll.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\Bol.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\DAL.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\Bol.pdb
+E:\DotnetProject\Portal\bin\Debug\net8.0\Bll.pdb
+E:\DotnetProject\Portal\bin\Debug\net8.0\DAL.pdb
+E:\DotnetProject\Portal\obj\Debug\net8.0\Portal.csproj.AssemblyReference.cache
+E:\DotnetProject\Portal\obj\Debug\net8.0\Portal.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotnetProject\Portal\obj\Debug\net8.0\Portal.AssemblyInfoInputs.cache
+E:\DotnetProject\Portal\obj\Debug\net8.0\Portal.AssemblyInfo.cs
+E:\DotnetProject\Portal\obj\Debug\net8.0\Portal.csproj.CoreCompileInputs.cache
+E:\DotnetProject\Portal\obj\Debug\net8.0\Portal.MvcApplicationPartsAssemblyInfo.cache
+E:\DotnetProject\Portal\obj\Debug\net8.0\Portal.RazorAssemblyInfo.cache
+E:\DotnetProject\Portal\obj\Debug\net8.0\Portal.RazorAssemblyInfo.cs
+E:\DotnetProject\Portal\obj\Debug\net8.0\staticwebassets.build.json
+E:\DotnetProject\Portal\obj\Debug\net8.0\staticwebassets.development.json
+E:\DotnetProject\Portal\obj\Debug\net8.0\staticwebassets\msbuild.Portal.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DotnetProject\Portal\obj\Debug\net8.0\staticwebassets\msbuild.build.Portal.props
+E:\DotnetProject\Portal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Portal.props
+E:\DotnetProject\Portal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Portal.props
+E:\DotnetProject\Portal\obj\Debug\net8.0\staticwebassets.pack.json
+E:\DotnetProject\Portal\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DotnetProject\Portal\obj\Debug\net8.0\scopedcss\bundle\Portal.styles.css
+E:\DotnetProject\Portal\obj\Debug\net8.0\scopedcss\projectbundle\Portal.bundle.scp.css
+E:\DotnetProject\Portal\obj\Debug\net8.0\Portal.csproj.CopyComplete
+E:\DotnetProject\Portal\obj\Debug\net8.0\Portal.dll
+E:\DotnetProject\Portal\obj\Debug\net8.0\refint\Portal.dll
+E:\DotnetProject\Portal\obj\Debug\net8.0\Portal.pdb
+E:\DotnetProject\Portal\obj\Debug\net8.0\Portal.genruntimeconfig.cache
+E:\DotnetProject\Portal\obj\Debug\net8.0\ref\Portal.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\Google.Protobuf.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\MySql.Data.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\ZstdSharp.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DotnetProject\Portal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\appsettings.Development.json
+E:\Student Portal\Portal\bin\Debug\net8.0\appsettings.json
+E:\Student Portal\Portal\bin\Debug\net8.0\Portal.staticwebassets.runtime.json
+E:\Student Portal\Portal\bin\Debug\net8.0\Portal.exe
+E:\Student Portal\Portal\bin\Debug\net8.0\Portal.deps.json
+E:\Student Portal\Portal\bin\Debug\net8.0\Portal.runtimeconfig.json
+E:\Student Portal\Portal\bin\Debug\net8.0\Portal.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\Portal.pdb
+E:\Student Portal\Portal\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\Google.Protobuf.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\MySql.Data.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\ZstdSharp.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\Bll.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\Bol.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\DAL.dll
+E:\Student Portal\Portal\bin\Debug\net8.0\Bll.pdb
+E:\Student Portal\Portal\bin\Debug\net8.0\DAL.pdb
+E:\Student Portal\Portal\bin\Debug\net8.0\Bol.pdb
+E:\Student Portal\Portal\obj\Debug\net8.0\Portal.csproj.AssemblyReference.cache
+E:\Student Portal\Portal\obj\Debug\net8.0\Portal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Student Portal\Portal\obj\Debug\net8.0\Portal.AssemblyInfoInputs.cache
+E:\Student Portal\Portal\obj\Debug\net8.0\Portal.AssemblyInfo.cs
+E:\Student Portal\Portal\obj\Debug\net8.0\Portal.csproj.CoreCompileInputs.cache
+E:\Student Portal\Portal\obj\Debug\net8.0\Portal.MvcApplicationPartsAssemblyInfo.cache
+E:\Student Portal\Portal\obj\Debug\net8.0\Portal.RazorAssemblyInfo.cache
+E:\Student Portal\Portal\obj\Debug\net8.0\Portal.RazorAssemblyInfo.cs
+E:\Student Portal\Portal\obj\Debug\net8.0\staticwebassets.build.json
+E:\Student Portal\Portal\obj\Debug\net8.0\staticwebassets.development.json
+E:\Student Portal\Portal\obj\Debug\net8.0\staticwebassets\msbuild.Portal.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Student Portal\Portal\obj\Debug\net8.0\staticwebassets\msbuild.build.Portal.props
+E:\Student Portal\Portal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Portal.props
+E:\Student Portal\Portal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Portal.props
+E:\Student Portal\Portal\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Student Portal\Portal\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Student Portal\Portal\obj\Debug\net8.0\scopedcss\bundle\Portal.styles.css
+E:\Student Portal\Portal\obj\Debug\net8.0\scopedcss\projectbundle\Portal.bundle.scp.css
+E:\Student Portal\Portal\obj\Debug\net8.0\Portal.csproj.CopyComplete
+E:\Student Portal\Portal\obj\Debug\net8.0\Portal.dll
+E:\Student Portal\Portal\obj\Debug\net8.0\refint\Portal.dll
+E:\Student Portal\Portal\obj\Debug\net8.0\Portal.pdb
+E:\Student Portal\Portal\obj\Debug\net8.0\Portal.genruntimeconfig.cache
+E:\Student Portal\Portal\obj\Debug\net8.0\ref\Portal.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\Portal.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\refint\Portal.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\Portal.pdb
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\appsettings.Development.json
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\appsettings.json
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\Portal.staticwebassets.runtime.json
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\Portal.exe
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\Portal.deps.json
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\Portal.runtimeconfig.json
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\Portal.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\Portal.pdb
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\Google.Protobuf.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\MySql.Data.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\ZstdSharp.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\Bll.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\BOL.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\DAL.dll
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\Bll.pdb
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\DAL.pdb
+E:\Student Portal\Dot-net\Dotnet Project\portal\bin\Debug\net8.0\BOL.pdb
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\Portal.csproj.AssemblyReference.cache
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\Portal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\Portal.AssemblyInfoInputs.cache
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\Portal.AssemblyInfo.cs
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\Portal.csproj.CoreCompileInputs.cache
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\Portal.MvcApplicationPartsAssemblyInfo.cache
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\Portal.RazorAssemblyInfo.cache
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\Portal.RazorAssemblyInfo.cs
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\Portal.sourcelink.json
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\staticwebassets.build.json
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\staticwebassets.development.json
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\staticwebassets\msbuild.Portal.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\staticwebassets\msbuild.build.Portal.props
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Portal.props
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Portal.props
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\scopedcss\bundle\Portal.styles.css
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\scopedcss\projectbundle\Portal.bundle.scp.css
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\Portal.csproj.CopyComplete
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\Portal.genruntimeconfig.cache
+E:\Student Portal\Dot-net\Dotnet Project\portal\obj\Debug\net8.0\ref\Portal.dll

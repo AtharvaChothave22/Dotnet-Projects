@@ -1,0 +1,34 @@
+E:\DotnetProject\Bol\obj\Debug\net8.0\Bol.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotnetProject\Bol\obj\Debug\net8.0\Bol.AssemblyInfoInputs.cache
+E:\DotnetProject\Bol\obj\Debug\net8.0\Bol.AssemblyInfo.cs
+E:\DotnetProject\Bol\obj\Debug\net8.0\Bol.csproj.CoreCompileInputs.cache
+E:\DotnetProject\Bol\bin\Debug\net8.0\Bol.deps.json
+E:\DotnetProject\Bol\bin\Debug\net8.0\Bol.dll
+E:\DotnetProject\Bol\bin\Debug\net8.0\Bol.pdb
+E:\DotnetProject\Bol\obj\Debug\net8.0\Bol.dll
+E:\DotnetProject\Bol\obj\Debug\net8.0\refint\Bol.dll
+E:\DotnetProject\Bol\obj\Debug\net8.0\Bol.pdb
+E:\DotnetProject\Bol\obj\Debug\net8.0\ref\Bol.dll
+E:\Student Portal\Bol\bin\Debug\net8.0\Bol.deps.json
+E:\Student Portal\Bol\bin\Debug\net8.0\Bol.dll
+E:\Student Portal\Bol\bin\Debug\net8.0\Bol.pdb
+E:\Student Portal\Bol\obj\Debug\net8.0\Bol.GeneratedMSBuildEditorConfig.editorconfig
+E:\Student Portal\Bol\obj\Debug\net8.0\Bol.AssemblyInfoInputs.cache
+E:\Student Portal\Bol\obj\Debug\net8.0\Bol.AssemblyInfo.cs
+E:\Student Portal\Bol\obj\Debug\net8.0\Bol.csproj.CoreCompileInputs.cache
+E:\Student Portal\Bol\obj\Debug\net8.0\Bol.dll
+E:\Student Portal\Bol\obj\Debug\net8.0\refint\Bol.dll
+E:\Student Portal\Bol\obj\Debug\net8.0\Bol.pdb
+E:\Student Portal\Bol\obj\Debug\net8.0\ref\Bol.dll
+E:\Student Portal\Dot-net\Dotnet Project\BOL\bin\Debug\net8.0\BOL.deps.json
+E:\Student Portal\Dot-net\Dotnet Project\BOL\bin\Debug\net8.0\BOL.dll
+E:\Student Portal\Dot-net\Dotnet Project\BOL\bin\Debug\net8.0\BOL.pdb
+E:\Student Portal\Dot-net\Dotnet Project\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Student Portal\Dot-net\Dotnet Project\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+E:\Student Portal\Dot-net\Dotnet Project\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+E:\Student Portal\Dot-net\Dotnet Project\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+E:\Student Portal\Dot-net\Dotnet Project\BOL\obj\Debug\net8.0\BOL.sourcelink.json
+E:\Student Portal\Dot-net\Dotnet Project\BOL\obj\Debug\net8.0\BOL.dll
+E:\Student Portal\Dot-net\Dotnet Project\BOL\obj\Debug\net8.0\refint\BOL.dll
+E:\Student Portal\Dot-net\Dotnet Project\BOL\obj\Debug\net8.0\BOL.pdb
+E:\Student Portal\Dot-net\Dotnet Project\BOL\obj\Debug\net8.0\ref\BOL.dll

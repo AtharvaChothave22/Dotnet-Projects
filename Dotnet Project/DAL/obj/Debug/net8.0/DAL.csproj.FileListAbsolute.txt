@@ -1,0 +1,46 @@
+E:\DotnetProject\DAL\bin\Debug\net8.0\DAL.deps.json
+E:\DotnetProject\DAL\bin\Debug\net8.0\DAL.dll
+E:\DotnetProject\DAL\bin\Debug\net8.0\DAL.pdb
+E:\DotnetProject\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotnetProject\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+E:\DotnetProject\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+E:\DotnetProject\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+E:\DotnetProject\DAL\obj\Debug\net8.0\DAL.dll
+E:\DotnetProject\DAL\obj\Debug\net8.0\refint\DAL.dll
+E:\DotnetProject\DAL\obj\Debug\net8.0\DAL.pdb
+E:\DotnetProject\DAL\obj\Debug\net8.0\ref\DAL.dll
+E:\DotnetProject\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\DotnetProject\DAL\bin\Debug\net8.0\Bol.dll
+E:\DotnetProject\DAL\bin\Debug\net8.0\Bol.pdb
+E:\DotnetProject\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+E:\Student Portal\DAL\bin\Debug\net8.0\DAL.deps.json
+E:\Student Portal\DAL\bin\Debug\net8.0\DAL.dll
+E:\Student Portal\DAL\bin\Debug\net8.0\DAL.pdb
+E:\Student Portal\DAL\bin\Debug\net8.0\Bol.dll
+E:\Student Portal\DAL\bin\Debug\net8.0\Bol.pdb
+E:\Student Portal\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\Student Portal\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Student Portal\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+E:\Student Portal\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+E:\Student Portal\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+E:\Student Portal\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+E:\Student Portal\DAL\obj\Debug\net8.0\DAL.dll
+E:\Student Portal\DAL\obj\Debug\net8.0\refint\DAL.dll
+E:\Student Portal\DAL\obj\Debug\net8.0\DAL.pdb
+E:\Student Portal\DAL\obj\Debug\net8.0\ref\DAL.dll
+E:\Student Portal\Dot-net\Dotnet Project\DAL\bin\Debug\net8.0\DAL.deps.json
+E:\Student Portal\Dot-net\Dotnet Project\DAL\bin\Debug\net8.0\DAL.dll
+E:\Student Portal\Dot-net\Dotnet Project\DAL\bin\Debug\net8.0\DAL.pdb
+E:\Student Portal\Dot-net\Dotnet Project\DAL\bin\Debug\net8.0\BOL.dll
+E:\Student Portal\Dot-net\Dotnet Project\DAL\bin\Debug\net8.0\BOL.pdb
+E:\Student Portal\Dot-net\Dotnet Project\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\Student Portal\Dot-net\Dotnet Project\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Student Portal\Dot-net\Dotnet Project\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+E:\Student Portal\Dot-net\Dotnet Project\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+E:\Student Portal\Dot-net\Dotnet Project\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+E:\Student Portal\Dot-net\Dotnet Project\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+E:\Student Portal\Dot-net\Dotnet Project\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+E:\Student Portal\Dot-net\Dotnet Project\DAL\obj\Debug\net8.0\DAL.dll
+E:\Student Portal\Dot-net\Dotnet Project\DAL\obj\Debug\net8.0\refint\DAL.dll
+E:\Student Portal\Dot-net\Dotnet Project\DAL\obj\Debug\net8.0\DAL.pdb
+E:\Student Portal\Dot-net\Dotnet Project\DAL\obj\Debug\net8.0\ref\DAL.dll
