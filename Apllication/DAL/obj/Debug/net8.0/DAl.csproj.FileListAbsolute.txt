@@ -1,0 +1,15 @@
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\obj\Debug\net8.0\DAl.csproj.AssemblyReference.cache
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\obj\Debug\net8.0\DAl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\obj\Debug\net8.0\DAl.AssemblyInfoInputs.cache
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\obj\Debug\net8.0\DAl.AssemblyInfo.cs
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\obj\Debug\net8.0\DAl.csproj.CoreCompileInputs.cache
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\bin\Debug\net8.0\DAl.deps.json
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\bin\Debug\net8.0\DAl.dll
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\bin\Debug\net8.0\DAl.pdb
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\bin\Debug\net8.0\Bol.dll
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\bin\Debug\net8.0\Bol.pdb
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\obj\Debug\net8.0\DAl.csproj.CopyComplete
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\obj\Debug\net8.0\DAl.dll
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\obj\Debug\net8.0\refint\DAl.dll
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\obj\Debug\net8.0\DAl.pdb
+C:\Users\Shree\Desktop\New MVC\Apllication\DAl\obj\Debug\net8.0\ref\DAl.dll

@@ -1,0 +1,17 @@
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\obj\Debug\net8.0\Bll.csproj.AssemblyReference.cache
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\obj\Debug\net8.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\obj\Debug\net8.0\Bll.AssemblyInfoInputs.cache
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\obj\Debug\net8.0\Bll.AssemblyInfo.cs
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\obj\Debug\net8.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\bin\Debug\net8.0\Bll.deps.json
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\bin\Debug\net8.0\Bll.dll
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\bin\Debug\net8.0\Bll.pdb
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\bin\Debug\net8.0\Bol.dll
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\bin\Debug\net8.0\DAl.dll
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\bin\Debug\net8.0\DAl.pdb
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\bin\Debug\net8.0\Bol.pdb
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\obj\Debug\net8.0\Bll.csproj.CopyComplete
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\obj\Debug\net8.0\Bll.dll
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\obj\Debug\net8.0\refint\Bll.dll
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\obj\Debug\net8.0\Bll.pdb
+C:\Users\Shree\Desktop\New MVC\Apllication\Bll\obj\Debug\net8.0\ref\Bll.dll

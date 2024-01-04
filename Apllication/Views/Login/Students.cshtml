@@ -1,0 +1,46 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Student Page";
+    List<Atharva> li=(List<Atharva>)this.ViewData["student"];
+}
+
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  
+  <table class="table table-condensed">
+    <thead>
+      <tr>
+      <th>Student ID</th>
+      <th>Namefirst</th>
+      <th>Namelast</th>
+      <th>Edit</th>
+      <th>Delete</th>
+
+      </tr>
+    </thead>
+    @{
+       foreach(Atharva A in li)
+       {
+        <tbody>
+        <tr>
+        <td>@A.ID</td>
+        <td>@A.namefirst</td>
+        <td>@A.namelast</td>
+        <td><a href="./Edit/@(A.ID)">Edit</a></td>
+        <td><a href="./Delete/@(A.ID)">Delete</a></td>
+        </tr>
+        </tbody>
+       }
+    }
+</table>
+</div>
+</body>

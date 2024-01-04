@@ -1,0 +1,11 @@
+C:\Users\Shree\Desktop\New MVC\Apllication\Bol\bin\Debug\net8.0\Bol.deps.json
+C:\Users\Shree\Desktop\New MVC\Apllication\Bol\bin\Debug\net8.0\Bol.dll
+C:\Users\Shree\Desktop\New MVC\Apllication\Bol\bin\Debug\net8.0\Bol.pdb
+C:\Users\Shree\Desktop\New MVC\Apllication\Bol\obj\Debug\net8.0\Bol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shree\Desktop\New MVC\Apllication\Bol\obj\Debug\net8.0\Bol.AssemblyInfoInputs.cache
+C:\Users\Shree\Desktop\New MVC\Apllication\Bol\obj\Debug\net8.0\Bol.AssemblyInfo.cs
+C:\Users\Shree\Desktop\New MVC\Apllication\Bol\obj\Debug\net8.0\Bol.csproj.CoreCompileInputs.cache
+C:\Users\Shree\Desktop\New MVC\Apllication\Bol\obj\Debug\net8.0\Bol.dll
+C:\Users\Shree\Desktop\New MVC\Apllication\Bol\obj\Debug\net8.0\refint\Bol.dll
+C:\Users\Shree\Desktop\New MVC\Apllication\Bol\obj\Debug\net8.0\Bol.pdb
+C:\Users\Shree\Desktop\New MVC\Apllication\Bol\obj\Debug\net8.0\ref\Bol.dll
